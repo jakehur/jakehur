@@ -1,3 +1,6 @@
 # hello
 ### 안녕
-##### 나마스때
+---
+--- python
+pip install python
+---
